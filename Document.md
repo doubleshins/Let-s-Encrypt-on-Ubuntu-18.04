@@ -1,5 +1,6 @@
 ## 1. Node.js 及 NPM
 
+apt-get install certbot
 
 openssl dhparam -out /etc/ssl/certs/dhparam.pem 2048
 
